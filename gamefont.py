@@ -391,7 +391,24 @@ class GUI:
                     "---1-",
                     "1-1--",
                     "-1---"
-                ]
+                ],
+                [
+                    # .
+                    "-----",
+                    "-----",
+                    "-----",
+                    "-----",
+                    "1----"
+                ],
+                [
+                    # '
+                    "-1---",
+                    "-1---",
+                    "-----",
+                    "-----",
+                    "-----"
+                ],
+                
         ]
 
         self.font_dict = {
@@ -447,6 +464,9 @@ class GUI:
             "←": self.special_chars[11],
             "^": self.special_chars[12],
             "✓": self.special_chars[13],
+            ".": self.special_chars[14],
+            "'": self.special_chars[15],
+
         }
 
     def draw(self):
