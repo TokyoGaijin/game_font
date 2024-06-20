@@ -79,7 +79,8 @@ The license explanation in legalese, is here: https://creativecommons.org/share-
 
 ### Contact
 If you like this font but don't know how to edit it yourself, that's okay - if you want to add some things to it but don't have the
-technical knowhow to figure it out, please send me a message at mikesdump@protonmail.ch and I will be more than happy to look into it (*so long as I **can** do it, that is*)
+technical knowhow to figure it out, please send me a message in the discussion of this repo and I will be more than happy to look into 
+it (*so long as I **can** do it, that is*)
 
 
 ### One last thing
