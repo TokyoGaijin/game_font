@@ -16,9 +16,12 @@ This will be updated as needed.
 ### 1. Import the module
 You must use the following:
 ```Python
+import pygame
 from gamefont import GUI
 ```
 at the start of your .py code file to implement.
+
+***NOTE: `pygame.init()` is NOT necessary to use this module***
 
 ### 2. Create your GUI font object
 The `GUI` class takes **1 mandatory argument** and 2 optional arguments.
