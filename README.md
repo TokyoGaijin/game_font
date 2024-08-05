@@ -11,6 +11,12 @@ To bypass Pygame's convoluted font/text object calls and functionality, to simpl
 
 ## About the Maintenance
 This will be updated as needed.
+**UPDATE: August 5, 2024**
+- Lowercase English alphabet added and tested
+- Writable Characters: `1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz`
+- Writable Special Characters include: `:;!?#%-+=_[][left arrow]^[check mark].'`
+- **WANTED**: Japanese hiragana/katakana (will probably *not* do Kanji)
+- **TODO** Characters: ``"@$[JPY Yen Sign]` among others
 
 ## How to Use
 ### 1. Import the module
