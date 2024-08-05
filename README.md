@@ -57,7 +57,7 @@ Prints `Hello World` at the **top-left** corner of the screen (defaults to x0, y
 
 #### Args
 ```Python
-fontObj.gPrint(string, x = 0, y = 0)
+fontObj.gPrint(string, startX = 0, startY = 0)
 ```
 
 ### Your Own Customization
