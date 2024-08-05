@@ -692,12 +692,12 @@ class GUI:
         for p in self.output_string:
             p.draw(self.surface)
 
-    def gPrint(self, string, startX = 0, startY = 0):
+    def gPrint(self, string, x= 0, y = 0):
         # Place this in the `draw()` function of
         # the main game code
         self.output_string.clear()
-        x = startX
-        y = startY
+        x = x
+        y = y
         letter_spacing = self.size * 7
         letter_width = self.size * 5
 
